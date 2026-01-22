@@ -1,0 +1,39 @@
+Phases of SDLC:-
+There are six phases in SDLC. They are
+1)Requirments gathering
+2)Designing
+3)Implementation(Development)
+4)Testing
+5)Deployment
+6)Maintenance
+
+
+1) Requirements Gathering
+
+In this phase, the needs and expectations of stakeholders are collected and analyzed.
+The goal is to clearly understand what the software should do.
+
+2) Designing
+
+Based on the requirements, the system architecture and design are created. This includes high-level design (HLD) and
+low-level design (LLD), defining system components, data flow, and interfaces.
+
+3) Implementation (Development)
+
+The actual coding of the software takes place in this phase. Developers write code using suitable programming languages and 
+frameworks based on the design documents.
+
+4) Testing
+
+The developed software is tested to identify and fix bugs or defects. This ensures the software works as expected and 
+meets the specified requirements.There are different types of testings available they are unit testing, integration testing,
+system testing, and user acceptance testing (UAT).
+
+5) Deployment
+
+After successful testing, the software is released into the production environment where end users can access and use it.
+
+6) Maintenance
+
+This phase involves ongoing support after deployment. It includes fixing issues, improving performance, and adding enhancements 
+based on user feedback.

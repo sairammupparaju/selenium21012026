@@ -1,0 +1,46 @@
+
+L3-24@DESKTOP-32931VS MINGW64 ~
+$ pwd
+/c/Users/L3-24
+
+L3-24@DESKTOP-32931VS MINGW64 ~
+$ mkdir veeva
+
+L3-24@DESKTOP-32931VS MINGW64 ~
+$ cd veeva
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ pwd
+/c/Users/L3-24/veeva
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ touch linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ ls
+linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ chmod 600 linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ cat linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ ls -l
+total 0
+-rw-r--r-- 1 L3-24 197121 0 Jan 22 09:49 linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ echo "welcome" linux.txt
+welcome linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ cat linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ echo "welcome" >linux.txt
+
+L3-24@DESKTOP-32931VS MINGW64 ~/veeva
+$ cat linux.txt
+welcome
